@@ -19,19 +19,19 @@
 ### 🛠 **Tech Stack**
 
 #### **Programming**
-`Python` `Java` `JavaScript` `C` `SQL`
+`Python` `Java` `JavaScript` `SQL`
 
 #### **AI / ML**
 `TensorFlow` `PyTorch` `Deep Learning` `CNN` `Data Analysis`
 
 #### **Web Development**
-`HTML` `CSS` `Tailwind` `JavaScript` `React` `Node.js` `REST APIs`
+`HTML` `CSS`  `JavaScript` `React` `Node.js`
 
 #### **Databases & Tools**
 `MongoDB` `MySQL` `Git` `GitHub` `VS Code` `Google Colab` `Jupyter`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,tailwind,react,nodejs,mongodb,mysql,git,github,vscode,tensorflow,pytorch&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,mongodb,mysql,git,github,vscode,tensorflow,pytorch&theme=light" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 | **Personal Portfolio Website** | Portfolio showcasing my skills, animations & modern UI. | HTML · CSS · JS · Netlify/Vercel |
 
 > **Portfolio Link:** https://my-portfolio-sigma-weld-63.vercel.app/  
-> **LeetCode:** https://leetcode.com/u/_saissssri_reddyy_/
+> **LeetCode:** https://leetcode.com/u/_saisri_reddyy_/
 
 ---
 
