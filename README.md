@@ -42,9 +42,7 @@
 |-------------|-------------|------------|
 | **Protein Subcellular Localization Prediction** | Built a CNN model to classify protein localization, helping computational biology research. | Python · PyTorch · Deep Learning · CNN |
 | **Trexplorer Landing Page** | A clean & responsive landing page deployed online. | HTML · CSS · Responsive Design |
-| **Personal Portfolio Website** | Portfolio showcasing my skills, animations & modern UI. | HTML · CSS · JS · Netlify/Vercel |
-
-> **Portfolio Link:** https://my-portfolio-sigma-weld-63.vercel.app/  
+ 
 > **LeetCode:** https://leetcode.com/u/_saisri_reddyy_/
 
 ---
